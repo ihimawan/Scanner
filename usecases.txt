@@ -1,0 +1,26 @@
+#Use case 1
+
+//there will be no errors here
+
+/    /* this is a comment */ ( ) + - * := 
+ .123 123 123.45 xy xy15
+// this is a comment
+write read
+wr8 re4
+/* * * */
+
+x12.3/*thisisacomment*/()+-*:=.123.45xy5/readwrite.5
+
+#Use case 2
+
+insertanyinvalidtokenhere &&
+
+#Use case 3
+
+//test with a comment that does not end
+/*
+
+#Use case 4
+
+//test with a double-slash comment that does not end with a new line
+//
